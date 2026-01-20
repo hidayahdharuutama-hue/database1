@@ -1,6 +1,6 @@
 {
-  "owner": 0,
-  "CEO": 0,
-  "partner": 0,
-  "reseller": 0
+  "owner": 10000,
+  "CEO": 10000,
+  "partner": 10000,
+  "reseller": 10000
 }
